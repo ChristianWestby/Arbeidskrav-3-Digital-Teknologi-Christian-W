@@ -17,13 +17,22 @@ Dette arbeidskravet dekker temaene:
 	•	OSI-modellen og datakommunikasjon
 	•	Maskinvare og ytelse
 
-Oppgaven besvares kortfattet, strukturert og med fokus på forståelse.
+
 
 ⸻
 
-## Oppgave 1 – Den digitale revolusjon
+# ( Jeg valgte å skrive om utviklingen innen for helse da jeg er i et omskoleringsløp fra nesten 10 år i helse og har fått god erfaring som bruker av mange av dagens digitale løsninger gjennom det å være pasient over tid. Syns utviklingen er kjempespennende, litt skummel, og viktig. Opptatt av regulering og riktig bruk av den nye utviklingen og jeg ser mange muligheter for hvordan ny teknologi kan implementeres i dagens helse basert på egen erfaring fra i arbeid på sykehus og da som pasient.
 
-Overordnet utvikling og sammenhengende analyse
+# Jeg tenker dette er viktige tanker å ta med seg i arbeidet for en verden i en rasende digital utvikling :
+
+## - "Samtidig vil for lav digitalisering føre til et helsevesen som sliter med å møte økende behov og personellmangel.Derfor handler    ikke spørsmålet om Norge skal digitalisere helsetjenesten – men hvordan dette skal gjøres ansvarlig, trygt og rettferdig."
+
+## - "Teknologi alene løser lite uten riktig kompetanse, gode samarbeidsmodeller og trygg forankring i befolkningen."
+
+
+## Oppgave 1 – Den digitale revolusjon innen helse
+
+# Overordnet utvikling og sammenhengende analyse
 
 Digitaliseringen av helse- og omsorgstjenesten i Norge har de siste årene både endret hvordan helsehjelp ytes i dag, og hvordan vi planlegger fremtidens tjenester. Utviklingen handler ikke bare om å ta i bruk nye teknologier som videokonsultasjoner, velferdsteknologi og elektroniske pasientjournaler, men om en gradvis omforming av hele måten helsetjenesten jobber, samhandler og prioriterer på frem mot 2035.
 
@@ -43,51 +52,24 @@ Samlet viser rapportene at teknologisk utvikling i norsk helse handler om å red
 
 
 
-## 1a) ## Hvordan digital utvikling har endret samhandling og arbeid (eksempel: helse)
+## 1a) Hvordan digital utvikling har endret samhandling og arbeid (eksempel: helse)
 
-Digitaliseringen i norsk helse- og omsorgstjeneste har gått raskt de siste årene. Flere tjenester er nå digitale, og både pasienter og helsepersonell bruker løsninger som elektroniske pasientjournaler, digital timebestilling, videokonsultasjoner og velferdsteknologi i hverdagen. Dette har effektivisert mange arbeidsprosesser og gjort informasjon lettere tilgjengelig.
+Digitaliseringen har i praksis gjort mange helsetjenester både raskere og mer tilgjengelige. Arbeidsflyt er blitt mer effektiv fordi pasientinformasjon kan deles digitalt mellom fastlege, sykehus og kommunen, og fordi prøvesvar, legemiddellister og journalnotater er tilgjengelige uten å måtte vente på papir eller manuell innsending. Dette gir færre forsinkelser og bedre kontinuitet i behandlingen.
 
-Digital dialog med helsetjenesten har også økt betydelig, og flere pasienter får oppfølging via digitale hjemmeoppfølgingstjenester. Dette reduserer unødvendige kontroller, samtidig som helsepersonell får bedre oversikt og kan reagere tidligere ved endringer i pasientens tilstand.
+For pasientene har digital timebestilling, meldingsdialog, videokonsultasjoner og innsyn i egne data gjort det enklere å holde oversikt og samarbeide med helsetjenesten. Mange kontroller kan nå gjøres hjemme gjennom digitale målinger eller hjemmeoppfølging, noe som sparer tid både for pasienter og helsepersonell.
 
-For å bedre datakvalitet og trygg informasjonsdeling jobbes det mye med standardisering, blant annet gjennom SNOMED CT og nasjonale informasjonsmodeller. Dette gjør det mulig for ulike systemer å “forstå” hverandre og reduserer risiko for feil.
+Samtidig har utviklingen også skapt flere utfordringer. Mange digitale systemer er komplekse og krever opplæring, og helsepersonell kan oppleve at dokumentasjonskravene øker. Hvis systemer ikke er godt integrert, oppstår dobbeltarbeid og risiko for feil. I tillegg krever digitaliseringen høy grad av informasjonssikkerhet, siden sensitive helseopplysninger er ettertraktet ved cyberangrep. Det er også risiko for digitalt utenforskap hos pasienter som ikke behersker digitale verktøy eller mangler utstyr.
 
-Bruken av kunstig intelligens i helse
+Digitaliseringen har dermed både effektivisert helsetjenesten og gjort informasjon mer tilgjengelig, men den forutsetter god opplæring, høy digital kompetanse, sikre løsninger og at det fortsatt finnes analoge alternativer for de som trenger det.
 
-Diagnostikk og bildeanalyse
-KI brukes til å tolke røntgen, MR og CT raskere og mer presist, og oppdager mønstre mennesker kan overse.
 
-Kirurgi og operasjoner
-Robotassistert kirurgi støtter kirurger med presisjonsbevegelser og risikovurdering.
-
-Beslutningsstøtte
-Algoritmer kan foreslå medisindosering, oppdage farlige interaksjoner og varsle om endringer i pasientens tilstand.
-
-Forebygging og tidlig varsling
-KI oppdager tidlige tegn på sykdom, som hjertesvikt eller infeksjoner, basert på store datamengder.
-
-Pasientens rolle
-Pasienter bruker KI i alt fra digitale symptom-sjekkere til smartklokker som måler helseparametre.
-
-Utfordringer som følger digitaliseringen
-
-• Risiko for feil hvis algoritmer trenes på skjeve datasett
-• Behov for forklarbar KI (hvorfor teknologien anbefaler noe)
-• Høye krav til sikkerhet, etikk og personvern
-• Mange systemer som ikke alltid er godt integrert
-• Økt administrasjon og “klikk-arbeid” for helsepersonell
-• Risiko for digitalt utenforskap blant eldre og sårbare grupper
-• Sektoren blir et attraktivt mål for cyberangrep – økt krav til beredskap
-
-Derfor jobbes det nasjonalt med trygg og ansvarlig bruk av data og KI, både gjennom regelverk, nye standarder og nasjonale satsinger.
 
 Kilde: Helsedirektoratet (2024), Direktoratet for e-helse, OECD Health Data Insights.
-Kilde: Kunnskapsgrunnlag -
-e-helsestrategi fra 2023
-Del II – Scenarioanalyse
-Digitalisering av
-helse- og omsorgssektoren mot 2035
+Kilde: Kunnskapsgrunnlag - e-helsestrategi fra 2023
+Del II – Scenarioanalyse - Digitalisering av helse- og omsorgssektoren mot 2035
 
-1b) Konkrete eksempler på digitale verktøy og teknologier
+
+## 1b) Konkrete eksempler på digitale verktøy og teknologier
 
 Elektronisk pasientjournal (EPJ)  
 EPJ har erstattet papirjournaler og gjør at helsepersonell raskere kan finne tidligere notater, prøvesvar og medisinlister. Det gjør samhandlingen mellom fastlege, sykehus og kommunale tjenester enklere, fordi flere kan se samme oppdatert informasjon. Samtidig stiller det høye krav til tilgangsstyring, logging og personvern.
@@ -111,7 +93,7 @@ I noen sykehus brukes KI til å analysere medisinske bilder, foreslå funn eller
 
 ## Oppgave 2 – Det binære tallsystemet
 
-2a) Hva er bit og byte?
+## 2a) Hva er bit og byte?
 •	En bit er den minste informasjonsenheten i et datasystem. Den kan ha verdien 0 eller 1.
 •	En byte er en samling på 8 biter og brukes til å representere tall, tekst og annen informasjon.
 

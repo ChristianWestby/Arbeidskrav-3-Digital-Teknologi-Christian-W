@@ -21,9 +21,10 @@ Dette arbeidskravet dekker temaene:
 
 ⸻
 
-# ( Jeg valgte å skrive om utviklingen innen for helse da jeg er i et omskoleringsløp fra nesten 10 år i helse og har fått god erfaring som bruker av mange av dagens digitale løsninger gjennom det å være pasient over tid. Syns utviklingen er kjempespennende, litt skummel, og viktig. Opptatt av regulering og riktig bruk av den nye utviklingen og jeg ser mange muligheter for hvordan ny teknologi kan implementeres i dagens helse basert på egen erfaring fra i arbeid på sykehus og da som pasient.
+Valg av emne:
+Jeg valgte å skrive om utviklingen innen for helse da jeg er i et omskoleringsløp fra nesten 10 år i helse og har fått god erfaring som bruker av mange av dagens digitale løsninger gjennom det å være pasient over tid. Syns utviklingen er kjempespennende, litt skummel, og viktig. Opptatt av regulering og riktig bruk av den nye utviklingen og jeg ser mange muligheter for hvordan ny teknologi kan implementeres i dagens helse basert på egen erfaring fra i arbeid på sykehus og da som pasient.
 
-# Jeg tenker dette er viktige tanker å ta med seg i arbeidet for en verden i en rasende digital utvikling :
+Jeg tenker dette er viktige tanker å ta med seg i arbeidet for en verden i en rasende digital utvikling :
 
 ## - "Samtidig vil for lav digitalisering føre til et helsevesen som sliter med å møte økende behov og personellmangel.Derfor handler    ikke spørsmålet om Norge skal digitalisere helsetjenesten – men hvordan dette skal gjøres ansvarlig, trygt og rettferdig."
 
@@ -93,28 +94,21 @@ I noen sykehus brukes KI til å analysere medisinske bilder, foreslå funn eller
 
 ## Oppgave 2 – Det binære tallsystemet
 
-## 2a) Hva er bit og byte?
+# 2a) Hva er bit og byte?
 •	En bit er den minste informasjonsenheten i et datasystem. Den kan ha verdien 0 eller 1.
 •	En byte er en samling på 8 biter og brukes til å representere tall, tekst og annen informasjon.
 
 ⸻
 
-Helt enig, sjef — ingen skriver små “₂” eller “₁₀” i et vanlig arbeidskrav. Det ser unødvendig teknisk ut og kan virke AI-produsert.
-Vi gjør det enkelt, praktisk og studentnaturlig.
+# 2b) Konverter desimaltall til binært
 
-Her er en helt naturlig versjon uten småtall, uten symbol-overdrivelse og med normal tekst:
-
-⸻
-
-2b) Konverter desimaltall til binært
-
-A) 12 til binært
+# A) 12 til binært
 
 12 består av:
 8 + 4 = 12
 → binært blir: 1100
 
-B) 27 til binært
+# B) 27 til binært
 
 27 består av:
 16 + 8 + 2 + 1 = 27
@@ -122,7 +116,7 @@ B) 27 til binært
 
 ⸻
 
-2c) Konverter 101110 til desimaltall
+# 2c) Konverter 101110 til desimaltall
 
 Vi skriver bit-verdiene slik:
 
@@ -136,7 +130,7 @@ Legg sammen de som har 1:
 
 ⸻
 
-2d) DATA i ASCII (binære 8-bit verdier)
+# 2d) DATA i ASCII (binære 8-bit verdier)
 
 Bokstav	ASCII	Binær
 D	68	01000100
@@ -151,7 +145,7 @@ DATA →
 
 ## Oppgave 3 – OSI-modellen og datakommunikasjon
 
-3a) Hva er OSI-modellen, og hvorfor er den viktig?
+# 3a) Hva er OSI-modellen, og hvorfor er den viktig?
 
 OSI-modellen er en 7-lags referansemodell for hvordan data transporteres i et nettverk. Den brukes for å beskrive, forstå og feilsøke kommunikasjon mellom systemer.
 
@@ -162,7 +156,7 @@ Den er viktig fordi den:
 
 ⸻
 
-3b) Lag 2 og lag 3
+# 3b) Lag 2 og lag 3
 
 Lag 2 – Datalinklaget
 •	Bruker MAC-adresser
@@ -178,7 +172,7 @@ Lag 3 – Nettverkslaget
 
 ⸻
 
-3c) Hvordan modellen hjelper med feilsøking
+# 3c) Hvordan modellen hjelper med feilsøking
 •	Lag 1-problemer: kabel, port, fysisk tilkobling
 •	Lag 2-problemer: MAC-tabell, VLAN-feil
 •	Lag 3-problemer: feil IP, gateway, ruting
@@ -189,7 +183,7 @@ Ved å isolere problemet på riktig lag kan teknikere finne feil raskere.
 
 ## Oppgave 4 – Maskinvare og ytelse
 
-4a) Hvordan RAM påvirker ytelse
+# 4a) Hvordan RAM påvirker ytelse
 
 RAM brukes som midlertidig arbeidsminne. Når RAM blir full:
 •	Systemet bruker disk som “ekstra RAM” (swap/pagefile)
@@ -200,7 +194,7 @@ Mer RAM → flere programmer samtidig → mindre bruk av swap.
 
 ⸻
 
-4b) 8 GB → 16 GB RAM, men eldre CPU
+# 4b) 8 GB → 16 GB RAM, men eldre CPU
 
 En oppgradering til 16 GB RAM gir fordeler hvis:
 •	Maskinen ofte bruker mye minne
@@ -217,7 +211,7 @@ Likevel vil 16 GB RAM gi merkbar forbedring i hverdagsbruk.
 
 ⸻
 
-## Bruk av KI (slik skolen krever)
+# Bruk av KI (slik skolen krever)
 
 I arbeidet med denne oppgaven har jeg brukt ChatGPT (OpenAI) som et verktøy for å:
 •	Få utdypende forklaring av fagbegreper jeg allerede forstår i grove trekk

@@ -214,9 +214,9 @@ Likevel vil 16 GB RAM gi merkbar forbedring i hverdagsbruk.
 ## Bruk av KI (slik skolen krever)
 
 I arbeidet med denne oppgaven har jeg brukt ChatGPT (OpenAI) som et verktøy for å:
-•	Få utdypende forklaring av fagbegreper jeg allerede forstår i grove trekk
-•	Få hjelp med strukturering og formulering
-•	Kontrollere binærutregninger
+•	Få utdypende forklaring av fagbegreper jeg allerede forstår i grove trekk.
+•	Få hjelp med strukturering og formulering av tekst jeg har brukt og produsert. 
+•	Kontrollere binærutregninger.
 
 KI er brukt som støtteverktøy. Jeg har selv lest og vurdert alle deler av teksten før den ble inkludert i besvarelsen.
 

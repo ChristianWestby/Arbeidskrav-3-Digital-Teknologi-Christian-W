@@ -21,19 +21,20 @@ Dette arbeidskravet dekker temaene:
 
 ⸻
 
-Valg av emne:
+## Valg av emne:
 Jeg valgte å skrive om utviklingen innen for helse da jeg er i et omskoleringsløp fra nesten 10 år i helse og har fått god erfaring som bruker av mange av dagens digitale løsninger gjennom det å være pasient over tid. Syns utviklingen er kjempespennende, litt skummel, og viktig. Opptatt av regulering og riktig bruk av den nye utviklingen og jeg ser mange muligheter for hvordan ny teknologi kan implementeres i dagens helse basert på egen erfaring fra i arbeid på sykehus og da som pasient.
 
 Jeg tenker dette er viktige tanker å ta med seg i arbeidet for en verden i en rasende digital utvikling :
 
-# - "Samtidig vil for lav digitalisering føre til et helsevesen som sliter med å møte økende behov og personellmangel. Derfor handler   ikke spørsmålet om Norge skal digitalisere helsetjenesten – men hvordan dette skal gjøres ansvarlig, trygt og rettferdig."
+## - "Samtidig vil for lav digitalisering føre til et helsevesen som sliter med å møte økende behov og personellmangel. Derfor handler   ikke spørsmålet om Norge skal digitalisere helsetjenesten – men hvordan dette skal gjøres ansvarlig, trygt og rettferdig."
 
-# - "Teknologi alene løser lite uten riktig kompetanse, gode samarbeidsmodeller og trygg forankring i befolkningen."
+## - "Teknologi alene løser lite uten riktig kompetanse, gode samarbeidsmodeller og trygg forankring i befolkningen."
 
 <br />
+
 ## Oppgave 1 – Den digitale revolusjon innen helse
 
-# Overordnet utvikling og sammenhengende analyse
+## Overordnet utvikling og sammenhengende analyse
 
 Digitaliseringen av helse- og omsorgstjenesten i Norge har de siste årene både endret hvordan helsehjelp ytes i dag, og hvordan vi planlegger fremtidens tjenester. Utviklingen handler ikke bare om å ta i bruk nye teknologier som videokonsultasjoner, velferdsteknologi og elektroniske pasientjournaler, men om en gradvis omforming av hele måten helsetjenesten jobber, samhandler og prioriterer på frem mot 2035.
 
